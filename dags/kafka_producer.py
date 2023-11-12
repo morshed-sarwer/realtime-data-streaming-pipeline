@@ -76,6 +76,3 @@ user_task = PythonOperator(
 )
 
 user_task
-
-
-
